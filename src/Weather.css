@@ -1,0 +1,57 @@
+.Weather {
+  background: rgba(255, 255, 255, 0.432);
+  border-radius: 10px;
+  padding: 20px 30px;
+}
+
+.Weather form {
+  margin-bottom: 20px;
+}
+
+.Weather .btn {
+  background: #6e6abd;
+  color: white;
+  transition: all 150ms ease-in-out;
+}
+
+.Weather .btn:hover {
+  opacity: 80%;
+}
+
+.Weather h1 {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 60px;
+  line-height: 1;
+  margin: 0;
+}
+
+.Weather ul {
+  padding: 0;
+}
+
+.Weather li {
+  font-size: 14px;
+  line-height: 19px;
+  list-style: none;
+  font-style: italic;
+}
+
+.Weather img {
+  position: relative;
+  top: -12px;
+  margin-right: 5px;
+}
+
+.Weather .temperature {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 64px;
+  line-height: 64px;
+}
+
+.Weather .unit {
+  position: relative;
+  top: -34px;
+  font-family: "Fredericka the Great", cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
