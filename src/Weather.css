@@ -38,14 +38,12 @@
 
 .Weather img {
   position: relative;
-  top: -12px;
-  margin-right: 5px;
+  top: -20px;
 }
 
 .Weather .temperature {
   font-family: "Fredericka the Great", cursive;
   font-size: 64px;
-  line-height: 64px;
 }
 
 .Weather .unit {
