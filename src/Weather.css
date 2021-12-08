@@ -52,7 +52,6 @@
 .Weather .unit {
   position: relative;
   top: -34px;
-  font-family: "Fredericka the Great", cursive;
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 16px;
+  font-weight: 600;
 }
