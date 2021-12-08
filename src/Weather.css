@@ -36,14 +36,17 @@
   font-style: italic;
 }
 
-.Weather img {
+.Weather canvas {
   position: relative;
-  top: -20px;
+  top: 8px;
+  margin-right: 10px;
 }
 
 .Weather .temperature {
   font-family: "Fredericka the Great", cursive;
   font-size: 64px;
+  margin-right: 5px;
+  line-height: 50px;
 }
 
 .Weather .unit {
