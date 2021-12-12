@@ -1,0 +1,13 @@
+.WeatherForecastDay .WeatherForecastDay-day {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 18px;
+}
+
+.WeatherForecastDay .WeatherForecastDay-temp-min {
+  color: #7d7e88;
+  margin-right: 5px;
+}
+
+.WeatherForecastDay canvas {
+  margin-bottom: 8px;
+}
